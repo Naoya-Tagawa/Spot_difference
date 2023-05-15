@@ -1,1 +1,1 @@
-# Spot_difference
+間違い探しアプリです
